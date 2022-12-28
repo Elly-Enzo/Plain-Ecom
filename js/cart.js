@@ -1,19 +1,18 @@
-
-
 function addToCart1() {
     let product1 = document.getElementById("fx").innerHTML
     let price1 = document.getElementById("fxp").innerHTML
-    //let b1 = document.getElementById("btn1")
-    //let b2 = document.getElementById("btn2")
-    //let b3 = document.getElementById("btn3")
+        //let b1 = document.getElementById("btn1")
+        //let b2 = document.getElementById("btn2")
+        //let b3 = document.getElementById("btn3")
 
 
-        document.getElementById("pro1").innerHTML = product1
-        document.getElementById("p1").innerHTML = price1
-        document.getElementById("ttl").innerHTML = price1
+    document.getElementById("pro1").innerHTML = product1
+    document.getElementById("p1").innerHTML = price1
+    document.getElementById("ttl").innerHTML = price1
 
 
 }
+
 function addToCart2() {
 
     let product2 = document.getElementById("fxw").innerHTML
@@ -24,6 +23,7 @@ function addToCart2() {
 
 
 }
+
 function addToCart3() {
 
     let product2 = document.getElementById("xyz").innerHTML
@@ -34,6 +34,7 @@ function addToCart3() {
 
 
 }
+
 function addToCart4() {
 
     let product2 = document.getElementById("ght").innerHTML
@@ -44,6 +45,7 @@ function addToCart4() {
 
 
 }
+
 function addToCart5() {
 
     let product2 = document.getElementById("wxy").innerHTML
@@ -54,6 +56,7 @@ function addToCart5() {
 
 
 }
+
 function addToCart5() {
 
     let product2 = document.getElementById("wxy").innerHTML
@@ -64,6 +67,7 @@ function addToCart5() {
 
 
 }
+
 function addToCart6() {
 
     let product2 = document.getElementById("hxy").innerHTML
@@ -74,6 +78,7 @@ function addToCart6() {
 
 
 }
+
 function addToCart7() {
 
     let product2 = document.getElementById("dxy").innerHTML
@@ -84,6 +89,7 @@ function addToCart7() {
 
 
 }
+
 function addToCart8() {
 
     let product2 = document.getElementById("nxy").innerHTML
